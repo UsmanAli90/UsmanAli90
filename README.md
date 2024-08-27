@@ -1,4 +1,4 @@
-<p align="center">Hey, I'm Usman. Final year CS Student!</p>
+<h1 align="center">Hey, I'm Usman. Final year CS Student!</h1>
 
 <p>
   <em>
