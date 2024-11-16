@@ -45,6 +45,3 @@
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
 </div>
 <br><br>
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<p align="center">I'm all about connecting with new folks! Don't hesitate to say Hi 👋 – I'm excited to get to know you better!</p>
